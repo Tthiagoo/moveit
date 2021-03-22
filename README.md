@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="MoveIt" src="https://user-images.githubusercontent.com/51219408/111930709-4d365300-8a98-11eb-8752-a550ee234920.jpg" width="40%">
+  <img alt="MoveIt" src="https://user-images.githubusercontent.com/51219408/111931287-ac489780-8a99-11eb-849c-b9fdadf86cea.jpg" width="40%">
 </p>
 
 ## ✨ Tecnologias
